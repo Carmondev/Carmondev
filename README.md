@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Carmon Ntefula
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend junior`**
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -98,4 +98,11 @@
 <div>  
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carmondev&theme=github_dark"/>
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carmondev&theme=github_dark"/>
+ <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
 </div> 
