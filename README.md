@@ -63,14 +63,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="fastapi" 
@@ -103,6 +96,6 @@
 ### 📊 Estatísticas
 
 <div>  
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramon-victor&theme=github_dark"/>
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramon-victor&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carmondev&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carmondev&theme=github_dark"/>
 </div> 
