@@ -102,23 +102,7 @@
 
 ### 📊 Estatísticas
 
-<p>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Carmondev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="" 
-  />
-
-</p>
+<div>  
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramon-victor&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramon-victor&theme=github_dark"/>
+</div> 
